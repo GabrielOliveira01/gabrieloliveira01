@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Lima. Seja muito bem-vindo 👋
+## Olá! Eu sou o Gabriel Lima. Seja muito bem-vindo ✌
 ### Sobre mim
 
 - 💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
